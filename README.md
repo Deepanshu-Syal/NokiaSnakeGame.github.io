@@ -1,1 +1,1 @@
-# NokiaSnakeGame.github.io
+# NokiaSnakeGame
